@@ -1,9 +1,9 @@
 ### Hi there, I'm Harleen 👋
 
-<img src="https://github.com/hh10/hh10.github.io/blob/master/img/img.png" align="right" />
+<img src="https://komarev.com/ghpvc/?username=hh10&color=blue&style=flat-square" align="right" />
 
 - 🔭 I’m currently working on Representation Learning, Generative Modelling and Verification of Neural Networks.
-- 💬 Ask me anything regarding my work, code and research [here](https://github.com/hh10/hh10/issues).
+- 💬 Details about my work [here](https://hh10.github.io/) and ask me anything about my code and research [here](https://github.com/hh10/hh10/issues).
 
 
 ### Languages, Frameworks and Tools:
