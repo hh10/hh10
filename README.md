@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Harleen 👋
 
-<!--
-**hh10/hh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/hh10/hh10.github.io/blob/master/img/img.png" align="right" />
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Representation Learning, Generative Modelling and Verification of Neural Networks.
+- 💬 Ask me anything regarding my work, code and research [here](https://github.com/hh10/hh10/issues).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages, Frameworks and Tools:
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="GoLang" width="26px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
+<img align="left" alt="Javascript" width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
+<img align="left" alt="PyTorch" width="26px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+<img align="left" alt="Tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
+<img align="left" alt="GCP" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+<img align="left" alt="Ubuntu" width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" />
+<img align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+<img align="left" alt="K8s" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+
+<br />
+<br />
+
+[![hh10's github stats](https://github-readme-stats.vercel.app/api?username=hh10&count_private=true&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/hh10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hh10&count_private=true&show_icons=true&layout=compact&theme=vue&langs_count=10)](https://github.com/hh10)
+
+<br />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hh10&" alt="hh10" />
