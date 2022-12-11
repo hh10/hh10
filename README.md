@@ -22,7 +22,4 @@
 
 [![hh10's github stats](https://github-readme-stats.vercel.app/api?username=hh10&count_private=true&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/hh10)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hh10&count_private=true&show_icons=true&layout=compact&theme=vue&langs_count=10)](https://github.com/hh10)
-
-<br />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hh10&" alt="hh10" />
